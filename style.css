@@ -1,0 +1,98 @@
+body{
+    font-family: Arial;
+    width: 100%;
+    background-image: url(https://images.prismic.io/need-pastel/8092dd12-11af-421b-90d9-50d960c6420c_BB_AnimatedLayout.png?auto=compress,format);
+}
+
+header{
+    background-color: orange;
+    text-align: center;
+    height: 100px;
+    font-size: 75px;
+}
+#pani{
+    background-color: pink;
+    margin-left: 20px;
+    width: 65%;
+   min-height:600px;
+    float: left;
+    min-height: 700px;
+    max-height: 1000px;
+}
+#pane{
+    background-color: lightskyblue;
+    width: 30%;
+    min-height: 600px;
+    margin-right: 20px;
+    float: right;
+    margin-bottom: 40px;
+    text-align: center;
+    max-height: 700px;
+}
+footer{
+    background-color: red;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+   min-height: 7%;
+   max-height: 100px;
+}
+#icons{
+    text-align: center;
+
+}
+ul{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+.lista{
+    padding-top: 100px;
+    list-style-type: none;
+    text-align:center;
+    
+}
+.lista:hover{
+    background-color:#FC92D4;
+}
+#pan{
+    text-align: right;
+    
+}
+#non{
+    float: left;
+    text-align: center;
+}
+
+#aa{
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+#panel{
+    text-align: center;
+}
+#aa:hover{
+    background-color:#FC92D4;
+    width: 300px;   
+    box-shadow: 5px 5px 5px 5px;
+    text-align: center;
+}
+#bbc{
+    background-color: lightsalmon;
+    height: 600px;
+    width: 300px;
+    margin-top: 0;
+    
+
+}
+#pn{
+    background-color: #ede3b4;
+    height: 50px;
+    width: 500px;
+    float: right;
+    margin-left: 600px;
+}
